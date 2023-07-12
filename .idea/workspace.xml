@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3df2c06-fe74-41b3-b002-29f97f569c21" name="변경" comment="두 변수의 값 바꿔주기">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="d3df2c06-fe74-41b3-b002-29f97f569c21" name="변경" comment="else-if문 연습">
       <change afterPath="$PROJECT_DIR$/src/main/java/EX5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Ex4_7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +85,7 @@
       <updated>1688462233480</updated>
       <workItem from="1688462234619" duration="1917000" />
       <workItem from="1688627427570" duration="653000" />
-      <workItem from="1688982243237" duration="14644000" />
+      <workItem from="1688982243237" duration="15495000" />
     </task>
     <task id="LOCAL-00001" summary="두 변수의 값 바꿔주기">
       <created>1689047793251</created>
@@ -101,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689047793251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="else-if문 연습">
+      <created>1689093545042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689093545042</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="두 변수의 값 바꿔주기" />
-    <option name="LAST_COMMIT_MESSAGE" value="두 변수의 값 바꿔주기" />
+    <MESSAGE value="else-if문 연습" />
+    <option name="LAST_COMMIT_MESSAGE" value="else-if문 연습" />
   </component>
 </project>
