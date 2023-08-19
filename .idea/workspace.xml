@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3df2c06-fe74-41b3-b002-29f97f569c21" name="변경" comment="else-if문 연습">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EX5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ex5_5.java" afterDir="false" />
+    <list default="true" id="d3df2c06-fe74-41b3-b002-29f97f569c21" name="변경" comment="랜덤숫자 6개 출력 (로또번호)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Ex4_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex4_7" />
@@ -86,6 +80,13 @@
       <workItem from="1688462234619" duration="1917000" />
       <workItem from="1688627427570" duration="653000" />
       <workItem from="1688982243237" duration="15495000" />
+      <workItem from="1689171968994" duration="142000" />
+      <workItem from="1689336744398" duration="200000" />
+      <workItem from="1690025081751" duration="68000" />
+      <workItem from="1690092598626" duration="50000" />
+      <workItem from="1690288969381" duration="58000" />
+      <workItem from="1690711949587" duration="33000" />
+      <workItem from="1690807080389" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="두 변수의 값 바꿔주기">
       <created>1689047793251</created>
@@ -101,15 +102,82 @@
       <option name="project" value="LOCAL" />
       <updated>1689093545042</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1689172012336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172012336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="랜덤한 숫자 만들기 연습">
+      <created>1689172062379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689172062379</updated>
+    </task>
+    <task id="LOCAL-00005" summary="배열의 이해">
+      <created>1690025110830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690025110830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="반복문 연습">
+      <created>1690092643388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690092643388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="배열과 for, if문 사용해서 최대값 최소값 구하기">
+      <created>1690289009127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690289009127</updated>
+    </task>
+    <task id="LOCAL-00008" summary="자바 완전 기초 (hello world 출력되는 방식 배우기)">
+      <created>1690711978844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690711978844</updated>
+    </task>
+    <task id="LOCAL-00009" summary="랜덤숫자 6개 출력 (로또번호)">
+      <created>1690807122101</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690807122101</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="두 변수의 값 바꿔주기" />
     <MESSAGE value="else-if문 연습" />
-    <option name="LAST_COMMIT_MESSAGE" value="else-if문 연습" />
+    <MESSAGE value="." />
+    <MESSAGE value="랜덤한 숫자 만들기 연습" />
+    <MESSAGE value="배열의 이해" />
+    <MESSAGE value="반복문 연습" />
+    <MESSAGE value="배열과 for, if문 사용해서 최대값 최소값 구하기" />
+    <MESSAGE value="자바 완전 기초 (hello world 출력되는 방식 배우기)" />
+    <MESSAGE value="랜덤숫자 6개 출력 (로또번호)" />
+    <option name="LAST_COMMIT_MESSAGE" value="랜덤숫자 6개 출력 (로또번호)" />
   </component>
 </project>
